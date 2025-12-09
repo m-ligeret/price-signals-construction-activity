@@ -1,5 +1,5 @@
 
-Signal-prix et investissement (agrégat) : 
+## Signal-prix et investissement (agrégat) : 
 - en Chine
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8931181/?utm_source=chatgpt.com
 - dans l'OCDE 

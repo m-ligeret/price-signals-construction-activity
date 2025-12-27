@@ -13,4 +13,9 @@ https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=dataset&da
 >- For detailed information on the dataset variables, please refer to the variable dictionary (dictionnaire_variables_logements_permis_construire.xls).
 
 
-
+## A quick literature review 
+### price signal and housing investment, regressions on an aggregate level : 
+- in China
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8931181/
+- in the OECD 
+https://www.sciencedirect.com/science/article/pii/S105113771300020X?via%3Dihub#s0015 

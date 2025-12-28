@@ -1,21 +1,47 @@
-# Price-signal and construction activity
-Markets are a decentralize way to allocate ressources, allocation that is often deemed to be the most efficient one compared to its alternative. Indeed, market efficiencies stem from a key feature of them : prices. According to Hayek and the Autrichian school, prices indicates a high level of demand and a low level if supply. According to this theory, one would expect construction activity to happen where demand is high, i.e. where supply is scarce. 
-Intuitions that were later formalized by neoclassical economists
-This data science project aim to give material to the question : is decentralized supply of housing and non residential building efficient ? 
-Framed differently : do markets build where buildings would be needed ? 
+# Price Signals and Construction Activity
 
-https://www.bis.org/review/r191104f.pdf 
-    
-https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=dataset&datasetId=6513f0189d7d312c80ec5b5b 
-
-> (en) : This dataset contains information on building permits (PC) and prior declarations (DP) related to the creation of housing units, including those created through the conversion or rehabilitation of pre-existing buildings.
->- The file includes data from 2013 onwards
->- For detailed information on the dataset variables, please refer to the variable dictionary (dictionnaire_variables_logements_permis_construire.xls).
+Markets provide a decentralized mechanism for allocating resources, a process often considered more efficient than centralized alternatives. This efficiency largely stems from a central feature of markets: **prices**. Following the insights of **Hayek and the Austrian School**, prices convey dispersed information by signaling high demand or constrained supply. In this framework, prices act as an aggregation of information, guiding economic agents’ decisions.
 
 
-## A quick literature review 
-### price signal and housing investment, regressions on an aggregate level : 
-- in China
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8931181/
-- in the OECD 
-https://www.sciencedirect.com/science/article/pii/S105113771300020X?via%3Dihub#s0015 
+Applied to the housing and construction sector, this theory implies that **construction activity should respond to price signals**: areas experiencing increasing demand—reflected in rising prices—should attract new construction. These intuitions were later formalized within the neoclassical framework, where investment decisions respond to expected returns and relative prices.
+
+This data science project seeks to provide empirical evidence on a central question:
+
+> **Is the decentralized supply of housing and non-residential buildings efficient?**  
+> Put differently, **do markets build where buildings are most needed?**
+
+---
+
+## Data
+
+This analysis relies on administrative data on building permits and prior declarations related to the creation of housing units, including those resulting from the conversion or rehabilitation of existing buildings.
+
+- The dataset covers the period **from 2013 onward**
+- Detailed definitions of variables are available in the accompanying data dictionary
+
+### Data sources
+
+- Banque des Règlements Internationaux (2019):  
+  https://www.bis.org/review/r191104f.pdf
+
+- Ministère de la Transition écologique (France):  
+  https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=dataset&datasetId=6513f0189d7d312c80ec5b5b
+
+> *(EN)* This dataset contains information on building permits (PC) and prior declarations (DP) related to the creation of housing units, including those created through the conversion or rehabilitation of pre-existing buildings.
+
+---
+
+## A Brief Literature Review
+
+### Price Signals and Housing Investment (Aggregate Evidence)
+
+Empirical research has extensively studied the relationship between price signals and housing investment at an aggregate level.
+
+- **China**  
+  Housing prices have been shown to significantly influence construction activity and investment dynamics.  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8931181/
+
+- **OECD Countries**  
+  Cross-country evidence indicates that residential investment responds strongly to price changes, although institutional and regulatory constraints may attenuate this relationship.  
+  https://www.sciencedirect.com/science/article/pii/S105113771300020X?via%3Dihub#s0015
+

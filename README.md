@@ -40,5 +40,5 @@ Empirical research has extensively studied the relationship between price signal
   Cross-country evidence indicates that residential investment responds strongly to price changes, although institutional and regulatory constraints may attenuate this relationship.  
   https://www.sciencedirect.com/science/article/pii/S105113771300020X?via%3Dihub#s0015
 
-However, research that focused on this relation at level of analysis below national levels are quite rare. 
+However, research that focused on this relation at level of analysis below national levels are quite rare, which prompted us to use more granular datasets to test the relation between prices and construction activity.
 

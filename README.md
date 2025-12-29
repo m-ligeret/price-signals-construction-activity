@@ -7,8 +7,8 @@ Applied to the housing and construction sector, this theory implies that **const
 
 This data science project seeks to provide empirical evidence on a central question:
 
-> **Is the decentralized supply of housing and non-residential buildings efficient?**  
-> Put differently, **do markets build where buildings are most needed?**
+**Is the decentralized supply of housing and non-residential buildings efficient?**  
+Put differently, **do markets build where buildings are most needed?**
 
 The theory of price-signals is often used to oppose any regulation of real estate prices, this project aim to tackle one specific argument of opponents to market regulation : prices are supposed to send signals to real estate developers. 
 
@@ -37,12 +37,10 @@ Those dataset mainly covers the period **from 2013 onward**
 ## Some related papers 
 Empirical research has extensively studied the relationship between price signals and housing investment at an aggregate level. This topic is often called "responsiveness to prices of housing supply". 
 
-- **China**  
-  Housing prices have been shown to significantly influence construction activity and investment dynamics.  
+- **China**  Housing prices have been shown to significantly influence construction activity and investment dynamics.  
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8931181/
 
-- **OECD Countries**  
-  Cross-country evidence indicates that residential investment responds strongly to price changes, although institutional and regulatory constraints may attenuate this relationship.  
+- **OECD Countries**  Cross-country evidence indicates that residential investment responds strongly to price changes, although institutional and regulatory constraints may attenuate this relationship.  
   https://www.sciencedirect.com/science/article/pii/S105113771300020X?via%3Dihub#s0015
 
 However, research that focused on this relation at level of analysis below national levels are quite rare, which prompted us to use more granular datasets to test the relation between prices and construction activity.

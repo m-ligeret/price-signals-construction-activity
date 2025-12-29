@@ -10,27 +10,32 @@ This data science project seeks to provide empirical evidence on a central quest
 > **Is the decentralized supply of housing and non-residential buildings efficient?**  
 > Put differently, **do markets build where buildings are most needed?**
 
+The theory of price-signals is often used to oppose any regulation of real estate prices, this project aim to tackle one specific argument of opponents to market regulation : prices are supposed to send signals to real estate developers. 
+
+Let's note however that France's real estate market is not a completely "free market" as there exists municipal regulation on the use of land and buildings. 
+
 ---
 
 ## Data
 
 This analysis relies on administrative data on building permits and prior declarations related to the creation of housing units, including those resulting from the conversion or rehabilitation of existing buildings.
 
-- The dataset covers the period **from 2013 onward**
-- Detailed definitions of variables are available in the accompanying data dictionary
-
-**Data sources**
+Those dataset mainly covers the period **from 2013 onward**
 
 - Ministère de la Transition écologique (France):  
   https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=dataset&datasetId=6513f0189d7d312c80ec5b5b
+  It includes the two datasets : creation of residential buildings and creation of non residential buildings 
+  This dataset contains information on building permits (PC) and prior declarations (DP) related to the creation of housing units, including those created through the conversion or rehabilitation of pre-existing buildings.
 
-> *(EN)* This dataset contains information on building permits (PC) and prior declarations (DP) related to the creation of housing units, including those created through the conversion or rehabilitation of pre-existing buildings.
+- French Property Transaction Database (DVF – Demandes de Valeurs Foncières) processed by Cerema
+  https://www.data.gouv.fr/datasets/dvf-open-data 
+  It is the list of the real estate transaction that occured during the given period. 
 
 
 ---
 
 ## Some related papers 
-Empirical research has extensively studied the relationship between price signals and housing investment at an aggregate level.
+Empirical research has extensively studied the relationship between price signals and housing investment at an aggregate level. This topic is often called "responsiveness to prices of housing supply". 
 
 - **China**  
   Housing prices have been shown to significantly influence construction activity and investment dynamics.  
